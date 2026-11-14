@@ -25,7 +25,7 @@
 
 ## Overview
 
-> Pir Browser is a lightweight browser built in C++ using the Qt framework and duckduckgo search engine to help you be free from unnecessary bloat and spyware.
+> Pir Browser is a opensourced and lightweight browser built in C++ using the Qt framework and duckduckgo search engine to help you be free from unnecessary bloat and spyware.
 ---
 
 ## Star History
