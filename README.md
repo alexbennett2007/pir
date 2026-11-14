@@ -1,8 +1,41 @@
-# <h1 align="center"><img src="pirlogo.png" alt="Pir Browser Logo" width="32" align="center" /> Pir Browser</h1>
+<div align="center">
+
+<img src="pirlogo.png" alt="Pir Browser Logo" width="120" />
+
+<h1>
+ Pir Browser
+</h1>
+
+<p>
+ <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Static Badge" />
+ <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+ <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+ <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="DuckDuckGo" />
+</p>
+
+<p>
+ <a href="https://github.com/alexbennett2007/pir/stargazers"><img src="https://img.shields.io/github/stars/alexbennett2007/pir?style=social" alt="GitHub Stars" /></a>
+ <a href="https://github.com/alexbennett2007/pir/forks"><img src="https://img.shields.io/github/forks/alexbennett2007/pir?style=social" alt="GitHub Forks" /></a>
+ <a href="https://github.com/alexbennett2007/pir/issues"><img src="https://img.shields.io/github/issues/alexbennett2007/pir?style=social" alt="GitHub Issues" /></a>
+</p>
+
+</div>
+
+---
 
 ## Overview
-Pir Browser is a lightweight, minimalist web browser built in C++ using the Qt framework (`QtWebEngine`), crafted to help keep the small internet fast, accessible, and free from unnecessary bloat. Styled with custom Qt Style Sheets for a clean, distraction-free interface, it focuses on essential functionality without heavy resource overhead.
 
-The browser supports full multi-tabbed navigation, allowing users to open, reorder, switch, and close tabs that dynamically update with website favicons and truncated page titles. Alongside standard back, forward, and reload controls, it features a smart address bar that navigates directly to `http://` or `https://` URLs while automatically routing plain text queries through DuckDuckGo for private, straightforward searching. For quick privacy management, a dedicated **Clear cache** button is built right into the toolbar to wipe the HTTP cache and delete all stored cookies with a single click.
+> Pir Browser is a lightweight browser built in C++ using the Qt framework and duckduckgo search engine to help you be free from unnecessary bloat and spyware.
+---
 
-In most cases, everyday browsing relies on mainstream, resource-heavy browsers, but for circumstances where you want a transparent, lightweight alternative you control from source, Pir Browser is there for you. To compile and run the project, clone the repository from `https://github.com/alexbennett2007/pir` and build it with `qmake` or `CMake` using a C++ compiler and a Qt 5 or Qt 6 installation that includes the `QtWebEngineWidgets` module.
+## Star History
+
+<div align="center">
+ <a href="https://www.star-history.com/?repos=alexbennett2007%2Fpir&type=date&legend=top-left">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=alexbennett2007/pir&type=date&theme=dark&legend=top-left" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=alexbennett2007/pir&type=date&legend=top-left" />
+     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=alexbennett2007/pir&type=date&legend=top-left" />
+   </picture>
+ </a>
+</div>
